@@ -10,7 +10,7 @@ Objects in Git include things like commit objects, where details about changes a
 
 This script is meant to be used on Unix-based systems and needs both Git and a standard shell.
 
-windows user can use git bash or wsl
+window users can use git bash or wsl
 
 ## How to Use
 
