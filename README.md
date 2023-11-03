@@ -39,7 +39,7 @@ If you want to find something specific, you can add a grep command at the end:
 Just replace 'your_keyword' with whatever you're looking for.
 
 For example, if you want to look an OpenAI API key you can do:
-- openai api starts with 'sk-'
+- openai api key starts with 'sk-'
 ```bash
 ./git_dumper.sh | grep -a 'sk-'
 ```
